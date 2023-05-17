@@ -11,3 +11,5 @@ draft: false
 Discover what this Hugo theme is all about and the core concepts behind it.
 
 ### Chapter 2 of second content
+
+### Chapter 3 of second content
